@@ -1,4 +1,9 @@
+# Php snippets
+I will keep this folder for non cms related php snippets. and add on explanations on the files in this readme.
+
+
 # Export from multiple tables to a ftp location
+Folder:
 
 ```sh
 export to ftp
@@ -11,4 +16,5 @@ Features:
   - Todo: move the built csv's to a "history" folder
 
 Notes: 
+
 The export_perorder.php is the latest file, as the client required this per order I have not updated the export_allorders.php with all the changes to make it work on par.
