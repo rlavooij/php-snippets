@@ -1,4 +1,8 @@
 <?php
+//
+//this file is the "old version", as client wanted to continue with per order version of the export. so this file is a bit messy, but works.
+//
+
 include('db.php');
 $datetime=date("Y_m_d_His");
 $end = 0;
