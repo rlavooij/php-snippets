@@ -1,5 +1,32 @@
-# Php snippets
-I will keep this folder for non cms related php snippets. and add on explanations on the files in this readme.
+# Snippets
+I will keep this folder for php snippets, magento snips and guides. 
+
+
+# Guides
+Folder:
+
+```sh
+Guides
+```
+
+contents:
+  - Magento cronjob debugging
+
+
+# Magento related snippets
+Folder:
+
+```sh
+magento snippets
+```
+
+<!--
+contents:
+  - Reads from multiple tables on a primary key
+  - Builds a csv on the source location
+  - Uploads this csv to a external ftp location (has been tested to work ftp->ftp on a cron)
+  - Todo: move the built csv's to a "history" folder
+-->
 
 
 # Export from multiple tables to a ftp location
